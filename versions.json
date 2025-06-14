@@ -1,3 +1,4 @@
 {
-    "cdk-notification": 1.0
+    "cdk-notification": 1.0,
+    "cdk-loadingscreen": 1.0
 }
